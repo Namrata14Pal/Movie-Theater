@@ -1,0 +1,7 @@
+#include<iostream>
+#include<sys/stat.h>
+using namespace std;
+
+int main(){
+    mkdir("D:/HMovieTheater");
+}
